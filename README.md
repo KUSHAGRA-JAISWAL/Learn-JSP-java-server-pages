@@ -1,4 +1,4 @@
-# JSP Programs (JAVA SERVER PAGES) <img src="https://imgur.com/6E3mVUQ.png" height=40px width=32px>
+# JSP Programs (JAVA SERVER PAGES) <img src="https://i.imgur.com/7E125fy.png" height=35px >
 
 <br><b>
 This repository is the collection of JSP Programs that has been done While Learning JSP at college as well as the collection of the program that were done while solving the daily Challenges. 
@@ -34,8 +34,10 @@ How to install Apache Tomcat on your devices.
 
 1. **[Installation On Windows]()** <img src="https://i.imgur.com/XeiSaGy.png" height=28px>
 
-2. **[Installation On Linux/Mac]()** <img src="https://i.imgur.com/Sw5sK3z.png" height=32px> / <img src="https://i.imgur.com/6AQjhTL.png" height=32px>
+2. **[Installation On Linux/Mac]()** <img src="https://i.imgur.com/Sw5sK3z.png" height=32px> / <img src="https://i.imgur.com/3oTBySt.png" height=28px>
+
 <br>
+
 # Learning Programs 📚
 
 | Programs                                           |Discription                             |
@@ -55,7 +57,7 @@ How to install Apache Tomcat on your devices.
 |13. **[pageredirect.jsp:](forms/pageredirect.jsp)**| Program to show how to redirect a page in jsp.|
 <br>
 
-# Backend JSP<img src="https://i.imgur.com/Q3wxKbw.png" height=35px>
+# Backend JSP <img src="https://i.imgur.com/JIYDWXv.jpg" height=28px>
 
 
 |Programs                                            |Discription                             |
