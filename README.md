@@ -1,4 +1,4 @@
-# JSP Programs (JAVA SERVER PAGES) <img src="https://i.imgur.com/7E125fy.png" height=35px >
+# JSP Programs (JAVA SERVER PAGES) <img src="https://i.imgur.com/7E125fy.png" height=45px >
 
 <br><b>
 This repository is the collection of JSP Programs that has been done While Learning JSP at college as well as the collection of the program that were done while solving the daily Challenges. 
