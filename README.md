@@ -22,7 +22,7 @@ Apache Tomcat software is used to run the JSP codes in HTML.<br>
 **[<h2>Join us at (Hacker)](https://discord.gg/5uZjRKHmJQ)** <img src="https://i.imgur.com/Fh1OlVZ.png" height=32px>
 </b>
 
-# Apache Tomcat  
+# Apache Tomcat  <img src="https://i.imgur.com/KOjmCKc.png" height=35px>
 
 The Apache Tomcat software is an open source implementation of the Jakarta Servlet, Jakarta Server Pages, Jakarta Expression Language, Jakarta WebSocket, Jakarta Annotations and Jakarta Authentication specifications. These specifications are part of the Jakarta EE platform.
 
