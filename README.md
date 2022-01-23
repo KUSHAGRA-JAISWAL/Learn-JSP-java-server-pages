@@ -18,10 +18,11 @@ Apache Tomcat software is used to run the JSP codes in HTML.<br>
 
 **[<h2>Join us at (HackerSpace)](https://discord.gg/5PNFxQF2nz)** <img src="https://i.imgur.com/FDMjbFf.png" height=28px><h2>
 
-**[<h2>Join us at (Hacker)](https://discord.gg/5uZjRKHmJQ)** <img src="https://i.imgur.com/Fh1OlVZ.png" height=32px><h2>
+**[<h2><h2>Join us at (Hacker)](https://discord.gg/5uZjRKHmJQ)** <img src="https://i.imgur.com/Fh1OlVZ.png" height=32px><h2>
 </b>
 
-<br><b>
+<br>
+
 # Apache Tomcat  
 
 The Apache Tomcat software is an open source implementation of the Jakarta Servlet, Jakarta Server Pages, Jakarta Expression Language, Jakarta WebSocket, Jakarta Annotations and Jakarta Authentication specifications. These specifications are part of the Jakarta EE platform.
@@ -35,7 +36,7 @@ How to install Apache Tomcat on your devices.
 1. **[Installation On Windows]()** <img src="https://i.imgur.com/XeiSaGy.png" height=28px>
 
 2. **[Installation On Linux/Mac]()** <img src="https://i.imgur.com/Sw5sK3z.png" height=32px> / <img src="https://i.imgur.com/6AQjhTL.png" height=32px>
-
+<br>
 # Learning Programs 📚
 
 | Programs                                           |Discription                             |
