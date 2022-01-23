@@ -13,15 +13,14 @@ This repo has divided into three main categories that covers:-
 
 Apache Tomcat software is used to run the JSP codes in HTML.<br>
 
-<br><b>
+<b>
+
 # Our Discord's! <img src="https://i.imgur.com/YrfDw86.gif" height=45px>
 
 **[<h2>Join us at (HackerSpace)](https://discord.gg/5PNFxQF2nz)** <img src="https://i.imgur.com/FDMjbFf.png" height=28px>
 
 **[<h2>Join us at (Hacker)](https://discord.gg/5uZjRKHmJQ)** <img src="https://i.imgur.com/Fh1OlVZ.png" height=32px>
 </b>
-
-<br>
 
 # Apache Tomcat  
 
