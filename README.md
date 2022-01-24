@@ -1,4 +1,4 @@
-# JSP Programs (JAVA SERVER PAGES) <img src="https://i.imgur.com/7E125fy.png" height=45px >
+# JSP Programs (JAVA SERVER PAGES) <img src="https://i.imgur.com/7E125fy.png" height=38px >
 
 <br><b>
 This repository is the collection of JSP Programs that has been done While Learning JSP at college as well as the collection of the program that were done while solving the daily Challenges. 
@@ -15,11 +15,11 @@ Apache Tomcat software is used to run the JSP codes in HTML.<br>
 
 <b>
 
-# Our Discord's! <img src="https://i.imgur.com/YrfDw86.gif" height=45px>
+# Our Discord's! <img src="https://i.imgur.com/YrfDw86.gif" height=50px>
 
-**[<h2>Join us at (HackerSpace)](https://discord.gg/5PNFxQF2nz)** <img src="https://i.imgur.com/9TC5djL.gif" height=35px>
+**[<h2>Join us at (HackerSpace)](https://discord.gg/5PNFxQF2nz)** <img src="https://i.imgur.com/9TC5djL.gif" height=40px>
 
-**[<h2>Join us at (h̲a̲c̲k̲e̲r̲s̲ ̲s̲e̲r̲v̲e̲r̲)](https://discord.gg/5uZjRKHmJQ)** <img src="https://i.imgur.com/ZvJVrUo.gif" height=35px>
+**[<h2>Join us at (h̲a̲c̲k̲e̲r̲s̲ ̲s̲e̲r̲v̲e̲r̲)](https://discord.gg/5uZjRKHmJQ)** <img src="https://i.imgur.com/ZvJVrUo.gif" height=40px>
 </b>
 
 # Apache Tomcat  <img src="https://i.imgur.com/cMY5kiB.png" height=34px >
@@ -38,7 +38,7 @@ How to install Apache Tomcat on your devices.
 
 <br>
 
-# Learning Programs <img src="https://i.imgur.com/4sdNnC4.gif"  height=35px>
+# Learning Programs <img src="https://i.imgur.com/4sdNnC4.gif"  height=38px>
 
 | Programs                                           |Discription                             |
 |----------------------------------------------------|----------------------------------------|
