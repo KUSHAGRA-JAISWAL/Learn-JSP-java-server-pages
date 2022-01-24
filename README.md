@@ -17,9 +17,9 @@ Apache Tomcat software is used to run the JSP codes in HTML.<br>
 
 # Our Discord's! <img src="https://i.imgur.com/YrfDw86.gif" height=45px>
 
-**[<h2>Join us at (HackerSpace)](https://discord.gg/5PNFxQF2nz)** <img src="https://i.imgur.com/FDMjbFf.png" height=28px>
+**[<h2>Join us at (HackerSpace)](https://discord.gg/5PNFxQF2nz)** <img src="https://i.imgur.com/9TC5djL.gif" height=35px>
 
-**[<h2>Join us at (h̲a̲c̲k̲e̲r̲s̲ s̲e̲r̲v̲e̲r̲)](https://discord.gg/5uZjRKHmJQ)** <img src="https://i.imgur.com/Fh1OlVZ.png" height=32px>
+**[<h2>Join us at (h̲a̲c̲k̲e̲r̲s̲ ̲s̲e̲r̲v̲e̲r̲)](https://discord.gg/5uZjRKHmJQ)** <img src="https://i.imgur.com/ZvJVrUo.gif" height=35px>
 </b>
 
 # Apache Tomcat  <img src="https://i.imgur.com/cMY5kiB.png" height=34px >
@@ -34,11 +34,11 @@ How to install Apache Tomcat on your devices.
 
 1. **[Installation On Windows](https://github.com/KUSHAGRA-JAISWAL/Learn-JSP-java-server-pages/wiki/Installation-On-Windows!)** <img src="https://i.imgur.com/XeiSaGy.png" height=28px>
 
-2. **[Installation On Linux/Mac]()** <img src="https://i.imgur.com/Sw5sK3z.png" height=32px> / <img src="https://i.imgur.com/3oTBySt.png" height=28px>
+2. **[Installation On Linux/Mac]()** <img src="https://i.imgur.com/0NGCAGn.gif" height=30px width=28px> <img src="https://i.imgur.com/OLVz9UU.png" height=30px width=28px>  <img src="https://i.imgur.com/FVYRZy6.gif"  height=35px>
 
 <br>
 
-# Learning Programs 📚
+# Learning Programs <img src="https://i.imgur.com/4sdNnC4.gif"  height=35px>
 
 | Programs                                           |Discription                             |
 |----------------------------------------------------|----------------------------------------|
